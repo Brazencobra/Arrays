@@ -1,0 +1,13 @@
+C:\Users\Lenovo\Desktop\Homework - Arrays\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.exe
+C:\Users\Lenovo\Desktop\Homework - Arrays\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.deps.json
+C:\Users\Lenovo\Desktop\Homework - Arrays\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Homework - Arrays\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\Homework - Arrays\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.dll
+C:\Users\Lenovo\Desktop\Homework - Arrays\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.pdb
+C:\Users\Lenovo\Desktop\Homework - Arrays\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Homework - Arrays\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Homework - Arrays\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Homework - Arrays\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Homework - Arrays\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.dll
+C:\Users\Lenovo\Desktop\Homework - Arrays\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.pdb
+C:\Users\Lenovo\Desktop\Homework - Arrays\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.genruntimeconfig.cache
